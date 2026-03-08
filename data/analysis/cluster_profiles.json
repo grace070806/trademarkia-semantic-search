@@ -1,0 +1,937 @@
+{
+  "0": {
+    "cluster_id": 0,
+    "size": 42,
+    "top_categories": [
+      [
+        "sci.crypt",
+        17
+      ],
+      [
+        "sci.med",
+        4
+      ],
+      [
+        "comp.sys.ibm.pc.hardware",
+        4
+      ],
+      [
+        "sci.electronics",
+        4
+      ],
+      [
+        "comp.sys.mac.hardware",
+        3
+      ]
+    ],
+    "representative_texts": [
+      "[..stuff deleted]\nOh, but can Big Brother afford such things in these times of tight\nbudgets?\n\nI don't know how many folks noticed it, but Dorothy \"Trust Me\" Denning gave\na real clue to the current state of the art at NSA on decrypto machines when\nshe said the NSA told her they didn't even want to b",
+      "The points raised about checking what is actually -in- the chip, as\n\topposed to what is allegedly programmed therein, raise yet another trust\n\tissue.  Even if we assume that these \"trusted agents\" are really entering\n\ta wide range of S1 and S2 seeds (rather than using the same one all the\n\ttime to r",
+      "Q:   Who was consulted?  The Congress?  Industry?\n\nA:   We have on-going discussions with Congress and industry on\n     encryption issues, and expect those discussions to intensify\n     as we carry out our review of encryption policy.  We have\n     briefed members of Congress and industry leaders on",
+      "OK, Andrew, I'll provide some evidence. A friend of mine worked for an\nelectronics manufacturer on with a west-coast office. They routinely sold\nequipment to the Japanese. One day, the Japanese started showing up with\ndiscount demands that were amazingly close to the cost to manufacture the\nproducts",
+      "I assumed he was referring to OS/2's 32-bit flat model addressing while DOS\n(and therefore Windows) use 20-bit segmented addressing.  As a programmer, I\nagree that segmentation unnecessarily complicates things.  It's annoying, too.\nBut when just a Windows user, I don't think about it much.  And, I d"
+    ],
+    "boundary_documents": [
+      {
+        "text": "Well, almost.... If I only had to solve the problem for myself, and were\nwilling to have to type in a second password (the secret key) whenever I\nlogged in, it could work. However, I'm trying to create a solution that\nanyone can use, and which, once ",
+        "membership_distribution": {
+          "cluster_0": 0.0667,
+          "cluster_4": 0.0667,
+          "cluster_8": 0.0667,
+          "cluster_2": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "Since your MOSFET is a 1972 vintage, it's probably not a very good one by \ntoday's standards.  If you have an idea about its voltage and current \nratings, e.g. 60VDC @ 6A, you can probably get away with replacing it with \nanything with better specs. ",
+        "membership_distribution": {
+          "cluster_0": 0.0667,
+          "cluster_6": 0.0667,
+          "cluster_12": 0.0667,
+          "cluster_4": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "This doesn't handle superencrypted traffic. If the clipper\ndoesn't impose any unfortunate performance side-effects there's no\nreason not to use it to superencrypt a stream of triple-DES encrypted\ntraffic. That way your traffic looks \"normal\" and perh",
+        "membership_distribution": {
+          "cluster_0": 0.0667,
+          "cluster_8": 0.0667,
+          "cluster_12": 0.0667,
+          "cluster_4": 0.0667
+        },
+        "entropy": 2.7081
+      }
+    ]
+  },
+  "1": {
+    "cluster_id": 1,
+    "size": 6150,
+    "top_categories": [
+      [
+        "misc.forsale",
+        724
+      ],
+      [
+        "comp.windows.x",
+        716
+      ],
+      [
+        "comp.sys.ibm.pc.hardware",
+        715
+      ],
+      [
+        "comp.sys.mac.hardware",
+        698
+      ],
+      [
+        "comp.graphics",
+        661
+      ]
+    ],
+    "representative_texts": [
+      "I'm buying a new system this week to replace my brain dead 286, and\ncould use some feedback on a couple systems I'm looking at if anyone is\nfamiliar with them.\n \n        The system that looks the most interesting is the Budget 486/66 VLB\ntower.  For about $2343 (delivered) it offers VLB, 8MB, 200MB ",
+      "NeXTstation 25MHz 68040 8/105\n                     Moto 56001 DSP \n        Megapixel (perfect - no dimming or shaking)\n\n        keyboard/mouse (of course :)\n\n        2.1 installed\n        2.1 docs\n            Network and System Administration\n            User's Reference\n            Applications\n\n  ",
+      "OK, if I post where this comes from, will people stop sending email \nasking where I negotiated the deal? ;-)\n\nThe deal is from \"International Computer and Networking\" in CA.\n(I saw the ad int he back of MacWorld and MacUser)...\nphone number is 310-441-9181 and the deal may have changed since\na few w",
+      "T H E  G R A P H I C S  B B S\n\n                                      #      #\n                                      #\n           ###   # ###  ###   ####   ####   ##    ####   ####\n          #   #  ##        #  #   #  #   #   #   #      #\n          #   #  #      ####  #   #  #   #   #   #       ###\n ",
+      "Gene's stuff for sale...NEW PRICES!!!\n\nThe following items are for sale:\n\nQty.    Description                                     List    Price\n________________________________________________________________________\n\n1       SuperMac ColorLink SX/T 24 bit NuBUS/10BASE-T  750.00  _549.00_\n        Th"
+    ],
+    "boundary_documents": [
+      {
+        "text": "{Sorry, Harel et al, but our doctors and most hospitals are still\nprivate in Canada as well as in much of Western Europe.}\n\nWrong.  In better EC countries that use pure (but public) health\ninsurance (like we use in Canada) rather than self-enclosed H",
+        "membership_distribution": {
+          "cluster_1": 0.0667,
+          "cluster_0": 0.0667,
+          "cluster_12": 0.0667,
+          "cluster_3": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "A placebo is an accepted treatment at times. \n\nWhy should it?  Placebos are effective under certain circumstances.  That's\nwhy they're used.  \n\nActually, I don't know know anyone who has actually gotten a \"sugar pill\".\nI don't know how it could be do",
+        "membership_distribution": {
+          "cluster_1": 0.0667,
+          "cluster_12": 0.0667,
+          "cluster_0": 0.0667,
+          "cluster_4": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "Hi there\nI'm suffering from Sarcoidosis at present.  Although it's shown as a\nchronic & rare tissue disorder, it is thankfully NOT life threatening.\n\nThe very worsed thing that can happen to a non-treated sufferer is\nglaucoma.  My specialists are bom",
+        "membership_distribution": {
+          "cluster_1": 0.0667,
+          "cluster_7": 0.0667,
+          "cluster_2": 0.0667,
+          "cluster_4": 0.0667
+        },
+        "entropy": 2.7081
+      }
+    ]
+  },
+  "2": {
+    "cluster_id": 2,
+    "size": 189,
+    "top_categories": [
+      [
+        "sci.med",
+        64
+      ],
+      [
+        "comp.windows.x",
+        39
+      ],
+      [
+        "comp.os.ms-windows.misc",
+        23
+      ],
+      [
+        "comp.graphics",
+        22
+      ],
+      [
+        "sci.space",
+        17
+      ]
+    ],
+    "representative_texts": [
+      "Greetings,\n\nI am using an X server that provides 3 visuals:\nPseudoColor 8 bit, Truecolor 24 bit and DirectColor 24 bit.\n\nA problem occurs when I try to create a window with a visual that is different\nfrom the visual of the parent (which uses the default visual which is TC24).\n\nIn the Xlib reference ",
+      "Lucky dog... :-)\n\nIt applies with equal force to earlier versions.  Presumably only\nrecently did the author(s) decide it was important enough to mention.\nThe necessity it refers to has always been there, but it's been\nimplicit in the way CreateWindow requests default some attributes of\nthe new windo",
+      "Anyone who thinks that TIFF is too complex hasn't dealt with\n\tCGM, ASN.1, CDA, DCA, SGML, or any one of a number of other\n\tvery successful file format.  People seem perfectly capable\n\tdealing with these others.  Dealing with the format of TIFF\n\tis frankly less difficult than dealing with the DCT, LZ",
+      "Hi, \n\tCould some please tell me the errors of my ways. \n\tI am trying to update a drawable. This drawable \n\thappens to be a Pixmap on a button. \n\t\n\tThe problem is that after I do the :\nXClearArea(XtDisplay(m_usr[0]),XtWindow(m_usr[0]), 80, 8, 40, 40, True);\n\n\tThis appears to work. I then do\n\nsprintf(",
+      "Hi, Experts, \n\nI'm kind of new to X. The following question is strange to me. I am\ntrying to modify the contents of the colormap but failed without\nreason (to me). I am using the following piece of code:\n\n  toplevel = XtInitialize(argv[0], \"Testcolor\", NULL, 0,\n\t\t\t  &argc, argv);\n  dpy = XtDisplay(t"
+    ],
+    "boundary_documents": [
+      {
+        "text": "There's only one way I know of to tell an AR-15 from an M-16.\n   Pick it up, hold it about a foot from your face and look closely\n   at the saftey lever.  If it has two positions, its an AR-15, if\n   it has three, its an M-16.  There are numerous int",
+        "membership_distribution": {
+          "cluster_2": 0.0667,
+          "cluster_1": 0.0667,
+          "cluster_0": 0.0667,
+          "cluster_14": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "<stuff deleted>\n\nGood gravy! Decibels are all *ratios.* The question that remains in\nany ratio is the reference unit used. Sometimes, this will be a reference\npower, such as 1 milliwatt (given a certain circuit impedance which\nshould also be included",
+        "membership_distribution": {
+          "cluster_2": 0.0667,
+          "cluster_11": 0.0667,
+          "cluster_5": 0.0667,
+          "cluster_10": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "KS> From: keith@actrix.gen.nz (Keith Stewart)\nKS>My wife has become interested through an acquaintance in Post-Polio Syndrome\nKS>This apparently is not recognised in New Zealand and different symptons ( eg\nKS>chest complaints) are treated separately.",
+        "membership_distribution": {
+          "cluster_2": 0.0667,
+          "cluster_7": 0.0667,
+          "cluster_5": 0.0667,
+          "cluster_9": 0.0667
+        },
+        "entropy": 2.7081
+      }
+    ]
+  },
+  "3": {
+    "cluster_id": 3,
+    "size": 30,
+    "top_categories": [
+      [
+        "rec.autos",
+        13
+      ],
+      [
+        "rec.motorcycles",
+        12
+      ],
+      [
+        "sci.space",
+        2
+      ],
+      [
+        "talk.politics.guns",
+        1
+      ],
+      [
+        "talk.politics.misc",
+        1
+      ]
+    ],
+    "representative_texts": [
+      ": >\n: >I just wanted to let you know that there are a few honest and good people out\n: >there (even outside of Iowa).  I'm sorry if anyone thinks that I am wasting\n: >space, but I thought you might want some relief from the \"So-and-so is a thief\"\n: >posts.  Not that I think we shouldn't hear about t",
+      "...text of options \"A\" and \"B\" deleted...\n\nOnly 10KW?\n\nHa!  \"North America Modular SPACE STATION construction\" :-)\nSame apprach, same reasoning: \"construction occurs under assembly\nline conditions, no random weather problems interupting site-work\non your home - better quality control\" -- sounds like",
+      "I'd bet the price of the helmet that it's okay...From 6 feet\nor higher, maybe not.\n\nI'd wear the full facer, but then, I'd be *way* more worried\nabout wind blast in the face, and inability to hear police\nsirens, than the helmet being a little damaged.\n\nWell, my next helmet will be, subject to it fit",
+      "*nnnnnnnng* Thank you for playing, I cannot agree with this.  I believed\nthis and to put it nicely, it was a piece of junk!\n\nI loved this car, I babied it, I pampered it, and after 2 years, it just\ncouldn't stay together, I would say that not everyone will have the\nproblems that I had, but know this",
+      "Enough, already. Let's take this discussion to some other newsgroup\nthat's more appropriate. Most of us are tired of it and would like to \nget back to old cars, IMHO."
+    ],
+    "boundary_documents": [
+      {
+        "text": "In reference to the limits of acceleration with guns launching solid\nrockets as payloads.  Thiokol provided me with samples and data on\na reinforcement to solid motor grains for high accelerations.  Solid\nmotor propellants usually have a substantial ",
+        "membership_distribution": {
+          "cluster_3": 0.0667,
+          "cluster_14": 0.0667,
+          "cluster_5": 0.0667,
+          "cluster_12": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "I dont know about Saabs but whenever there is a 'long temr tset' in a magazine\nthey always say that tehy're are little annoying niggles which keep on occuring\nevery so often... I wouldn't expect that from such a 'quality' car.... why \ndoesn't anythin",
+        "membership_distribution": {
+          "cluster_3": 0.0667,
+          "cluster_14": 0.0667,
+          "cluster_9": 0.0667,
+          "cluster_0": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "Quite right, your batteries should be perfectly alright and retain\nmost of their charge if drained and dried well, but I'd throw out the\nelectrolyte and buy some more when you need it.\n\n     And before anyone says I'm wrong, remember that new batteri",
+        "membership_distribution": {
+          "cluster_3": 0.0667,
+          "cluster_0": 0.0667,
+          "cluster_6": 0.0667,
+          "cluster_14": 0.0667
+        },
+        "entropy": 2.7081
+      }
+    ]
+  },
+  "4": {
+    "cluster_id": 4,
+    "size": 5346,
+    "top_categories": [
+      [
+        "soc.religion.christian",
+        799
+      ],
+      [
+        "talk.politics.mideast",
+        740
+      ],
+      [
+        "talk.politics.guns",
+        615
+      ],
+      [
+        "alt.atheism",
+        567
+      ],
+      [
+        "talk.politics.misc",
+        552
+      ]
+    ],
+    "representative_texts": [
+      ": In article <1r6p8oINN8hi@clem.handheld.com>, jmd@cube.handheld.com (Jim De\n: >  \n: > I have not made up my mind about Waco, but there sure seems to be a group of  \n: > devoted government following fanatics willing to believe whatever that  \n: > government wants to tell them, without any shred of d",
+      "From: \"dan mckinnon\" <dan.mckinnon@canrem.com>\n\n\t   I have lurked here a bit lately, and though some of the math is\n\tunknown to me, found it interesting. I thought I would post an article I\n\tfound in the Saturday, April 17, 1993 Toronto Star:\n\n\t                  'CLIPPER CHIP' to protect privacy\n\nPo",
+      ": In article <1993Apr22.170418.15799@news.eng.convex.com> gardner@convex.com\n\n...cascades elided to preserve our sanity....\n\n: That wasn't my point. My point is that your implied position about the \"Waco\n: Massacre\" is an assertion cum political position. According to a CNN poll,\n....\n: What you cal",
+      "Woops.  I'm not sure if I screwed up, but this is either forgery or some \nsort of mistake (aborted post that didn't abort) on my part.  \n\nBogus article below if seen in another post should be ignored..  \n\n---------------------------------------------------------------------------\n/ iftccu:talk.polit",
+      "-----BEGIN PGP SIGNED MESSAGE-----\n\nPlease note that the following speech was made by Chuck Hammill\nin 1987.  Address all letters to his address, given at the end\nof this document.\n     -- Russell\n\n  FROM CROSSBOWS TO CRYPTOGRAPHY:  THWARTING THE STATE VIA\n                     TECHNOLOGY\n\n  Given at"
+    ],
+    "boundary_documents": [
+      {
+        "text": "I have just taken delivery on a new GM car (Firebird) with a \nclearcoat finish.  I assume that it is probably urethane since the \nindustry has moved in that direction in paints.\n \nIn years past, it used to be recommended that owners wait up to \n60 da",
+        "membership_distribution": {
+          "cluster_4": 0.0667,
+          "cluster_1": 0.0667,
+          "cluster_9": 0.0667,
+          "cluster_12": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "I am quite near sighted.\n\nI've recently received laser treatment for both eyes to seal\nholes in the retinas to help prevent retinal detachment. In my\nleft eye a small detachment had begun already and apparently the\nlaser was used to \"weld\" this back ",
+        "membership_distribution": {
+          "cluster_4": 0.0667,
+          "cluster_1": 0.0667,
+          "cluster_6": 0.0667,
+          "cluster_7": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "I would suggest you take the car to the nearest Chevron dealer, with\nyour own oil and filter.  Ask for an oil change.  It will cost less\nthan $10.  Watch him/her do it.  Just from watching someone do a job,\nyou will be able to learn and remember the ",
+        "membership_distribution": {
+          "cluster_4": 0.0667,
+          "cluster_6": 0.0667,
+          "cluster_14": 0.0667,
+          "cluster_1": 0.0667
+        },
+        "entropy": 2.7081
+      }
+    ]
+  },
+  "5": {
+    "cluster_id": 5,
+    "size": 269,
+    "top_categories": [
+      [
+        "rec.autos",
+        56
+      ],
+      [
+        "sci.space",
+        44
+      ],
+      [
+        "rec.sport.baseball",
+        38
+      ],
+      [
+        "rec.motorcycles",
+        34
+      ],
+      [
+        "comp.sys.mac.hardware",
+        26
+      ]
+    ],
+    "representative_texts": [
+      "Ken:\n\nYour arguments are thoughtful but you are going up against the Big\nBoys if you're tackling Henry.  Allen Sherzer will doubtless chime in\non the subject of staggering operational costs, too.  Good luck, son.\n\nAhem.  The Russians are in the Free World now, or at least it would be\nPolitically Cor",
+      "I don't know if it's as much an issue of their ablility to handle the\npower as it is the power they lose (in the torque converter, etc).\n\nHowever, if you encounter a '93 Formula with 5.7L & 6-Speed Manual,\nYou'll be SOL, I'm afraid. ;) BTW, I know of what I speak as a former\nowner of a 5.7L Auto IRO",
+      "[much BS deleted for brevity]\n\nIt certainly smacks of that! Remember the \"POLL\" that you quoted saying that\nyou had seen a 95% of users being satisfied with DOS 6.0? Care to recall how\nunbiased the sample set was? That post sure looked like FUD....and coming\nfrom a microsoftie .... well, it sure see",
+      "\"Space Station Redesign Leader Says Cost Goal May Be\nImpossible\"\n\nToday (4/6) the Washington Post ran an article with the\nheadline shown above. The article starts with \"A leader\nof the NASA team in charge of redesigning the planned\nspace station said yesterday the job is tough and may\nbe impossible.",
+      "It is interesting to note in the past few days' correspondance that some\nbelieve that poor old New Mexico is not capable of hosting a commercial\nspace launch business.  For many reasons, it can, and we here on the front\nlines see no reason why it should not.  The 'spaceport political publicity'\nrefe"
+    ],
+    "boundary_documents": [
+      {
+        "text": "The screws are Torx screws and the tool isn't to hard to find. It's a\nmatter of finding one with a long enough shaft to do the trick. \n \nNo it is not a good idea to take that fan out.  Why because it will\ncause stuff to over heat.  Internal hard driv",
+        "membership_distribution": {
+          "cluster_5": 0.0667,
+          "cluster_7": 0.0667,
+          "cluster_1": 0.0667,
+          "cluster_12": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "Well, no, during the original deployment mission the HST aperture door was\nnot opened until after the Shuttle had landed.  \n\nI presume that during a re-boost mission HST would be berthed in the orbiter\nwith the orbiter bay doors shut; but still there",
+        "membership_distribution": {
+          "cluster_5": 0.0667,
+          "cluster_14": 0.0667,
+          "cluster_8": 0.0667,
+          "cluster_12": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "Well, one reason for getting conflicting answers is that it depends on\nwhat you want the ground plane to do.  A continuous conductor is a good \nelectrostatic shield.  Do you have signals on your board that need\nshielding rom other things?  This shiel",
+        "membership_distribution": {
+          "cluster_5": 0.0667,
+          "cluster_14": 0.0667,
+          "cluster_11": 0.0667,
+          "cluster_1": 0.0667
+        },
+        "entropy": 2.7081
+      }
+    ]
+  },
+  "6": {
+    "cluster_id": 6,
+    "size": 459,
+    "top_categories": [
+      [
+        "sci.crypt",
+        72
+      ],
+      [
+        "soc.religion.christian",
+        69
+      ],
+      [
+        "alt.atheism",
+        49
+      ],
+      [
+        "sci.space",
+        46
+      ],
+      [
+        "talk.politics.mideast",
+        44
+      ]
+    ],
+    "representative_texts": [
+      "Well, isn't this just a hoot! :)  All I read on this group is a bunch\nof ppl fearing the misuses of information by the big bad evil govt.\nThis just happens to be a case of an ordinary-joe-netter, who decided\nthat he would create and/or distribute some misinformation.  Ppl buy\ninto BS posts like this",
+      "I saw this article posted in a local newsgroup.  I haven't seen it,\nor any followup traffic relating to it in these groups or other groups\nwhich I subscribe to.  So, I am posting it here so others can read it,\ncheck it out, and comment on it, and provide ideas for handling these\nsorts of things.\n\nI ",
+      "SSRT ROLLOUT\n\n                Speech Delivered by Col. Simon P. Worden,\n                     The Deputy for Technology, SDIO\n                                    \n                  Mcdonnell Douglas - Huntington Beach\n                              April 3,1993\n\n     Most of you, as am I, are \"childre",
+      "[excellent and helpful list deleted] \n\n  Wes's list is of \"do\"s and \"don't\"s for writing your Congressional\nrepresentatives is a fine one but I'd like to encourage people to pay\nextra attention to the point above.  As cliched as the saying may be\nit's nevertheless true that you can catch more flies ",
+      "[much more deleted]\n\nHere is how! Lets write a DOCUMENT which includes all the reasons\nwe oppose Clipper, in clear, concise, non-techincal manner. I urge \neveryone of you to take the (very simple) \"start\" below and repost it\nwith changes. Let the text evolve until we reach something most of us\nlike."
+    ],
+    "boundary_documents": [
+      {
+        "text": "Archive-name: space/mnemonics\nLast-modified: $Date: 93/04/01 14:39:14 $\n\nASTRONOMICAL MNEMONICS (This is the last FAQ section posted to sci.astro)\n\n    Gathered from various flurries of mnemonic postings on sci.astro.\n\n    Spectral classification seq",
+        "membership_distribution": {
+          "cluster_6": 0.0667,
+          "cluster_7": 0.0667,
+          "cluster_4": 0.0667,
+          "cluster_11": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "I don't know for sure if Winchester made any commemeratives.  If I\nrecall correctly, the rifle itself was a .44-40 Model 92 with an\noversized loop lever.  I don't think Winchester makes this rifle\nany more.  Rossi make a Model 92 look-alike in .38 Sp",
+        "membership_distribution": {
+          "cluster_6": 0.0667,
+          "cluster_13": 0.0667,
+          "cluster_4": 0.0667,
+          "cluster_10": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "Hi sci.med folks...\n\nI would like to know anything you folks can tell me regarding Lithium.\n\nI have a 10 year old son that lives with my ex-wife.  She has been having\ndifficulty with his behavior and has had him on Ritalin, Tofranil, and now\nwants to",
+        "membership_distribution": {
+          "cluster_6": 0.0667,
+          "cluster_2": 0.0667,
+          "cluster_4": 0.0667,
+          "cluster_1": 0.0667
+        },
+        "entropy": 2.7081
+      }
+    ]
+  },
+  "7": {
+    "cluster_id": 7,
+    "size": 68,
+    "top_categories": [
+      [
+        "sci.med",
+        36
+      ],
+      [
+        "rec.motorcycles",
+        6
+      ],
+      [
+        "sci.space",
+        5
+      ],
+      [
+        "sci.electronics",
+        5
+      ],
+      [
+        "rec.autos",
+        4
+      ]
+    ],
+    "representative_texts": [
+      "There have been a few postings in the past on alleged pathological \n(esp. neurological) conditions induced by playing video games\n(e.g. Nintendo). Apparently, there have been reported several cases of\n\"photosensitive epilepsy\", due to the flashing of some\npatterns and the strong attention of the (yo",
+      "Forwarded from the Mars Observer Project\n\n                       MARS OBSERVER STATUS REPORT\n                             April 30, 1993\n                              11:30 AM PDT\n\nDSS-65 (Madrid 34 meter antenna) did not acquire the expected Mars Observer\nSpacecraft signal at the scheduled beginnin",
+      "-- and --\n\nGood grief; has no one ever heard of Biostatistics??  The University of\nWashington (plus 3 or 4 others [Harvard, UNC]) has a department and\nadvanced degree program in Biostatistics.  My wife has an MS Biostat, and\nthere are plenty of MDs, PhDs, and postdocs doing Biostatistical work.\nPeop",
+      "I'm not sure, but it almost sounds like they can't figure out where the \n_nucleus_ is within the coma. If they're off by a couple hundred\nmiles, well, you can imagine the rest...",
+      "Following is a short note commenting on den Boer and Bosselaers'\nrecent work on the MD5 message-digest algorithm. Feel free to email\nquestions or further comments.\n\n-- Burt Kaliski\nRSA Laboratories\n----------------------------------------------------------------------\n\\documentstyle[12pt]{article}\n\\"
+    ],
+    "boundary_documents": [
+      {
+        "text": "Following is a short note commenting on den Boer and Bosselaers'\nrecent work on the MD5 message-digest algorithm. Feel free to email\nquestions or further comments.\n\n-- Burt Kaliski\nRSA Laboratories\n----------------------------------------------------",
+        "membership_distribution": {
+          "cluster_7": 0.0667,
+          "cluster_14": 0.0667,
+          "cluster_8": 0.0667,
+          "cluster_13": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "[reply to ron.roth@rose.com (ron roth)]\n \n \nRon, you're an endless source of misinformation!  There ARE no sacral\nvertebrae.  There is a bone called the sacrum at the end of the spine.\nIt is a single, solid bone except in a few patients who have a\nlu",
+        "membership_distribution": {
+          "cluster_7": 0.0667,
+          "cluster_4": 0.0667,
+          "cluster_6": 0.0667,
+          "cluster_0": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "It isn't that rare, actually.  Many cases that are called Parkinson's\nDisease turn out on autopsy to be SND.  It should be suspected in any\ncase of Parkinsonism without tremor and which does not respond to\nL-dopa therapy.  I don't believe pallidotomy",
+        "membership_distribution": {
+          "cluster_7": 0.0667,
+          "cluster_12": 0.0667,
+          "cluster_4": 0.0667,
+          "cluster_5": 0.0667
+        },
+        "entropy": 2.7081
+      }
+    ]
+  },
+  "8": {
+    "cluster_id": 8,
+    "size": 670,
+    "top_categories": [
+      [
+        "sci.crypt",
+        193
+      ],
+      [
+        "comp.os.ms-windows.misc",
+        101
+      ],
+      [
+        "comp.sys.ibm.pc.hardware",
+        77
+      ],
+      [
+        "sci.space",
+        73
+      ],
+      [
+        "comp.graphics",
+        46
+      ]
+    ],
+    "representative_texts": [
+      "\"The Preferred Applications Development Platform\"\naccording to 432 of the Fortune 1000 corporations\nSurvey by Sentry Market Research Survey\n(All percentages)\n\n                1992            1993\n\nUnix              18              28\nMainframe         35              22\nDOS & MSW         24         ",
+      "-----BEGIN PGP SIGNED MESSAGE-----\n\nGasp!\n\nI've just spent 3 hours catching up on sci.crypt here (slow reader I\nguess) and I really have to put out a few comments too.  First, let me\nflame the famous Dave S. : He's obviously only 10 years old.  Cut him\nsome slack. :^}\n\nThe joke about Clinton/crypto/",
+      "KM>  Is the 486DX3/99 anything more than a myth?  I haven't heard of it\nKM>from any source that I trust, and I sure don't see any ads for DX3/99\nKM>machines in Computer Shopper.  Intel is pretty busy with the Pentium\nKM>right now; I can't seem them introducing their own competition.\n\nI heard the rum",
+      "What's sort of interesting about this whole thread is just how much\nit has in common with similar threads in groups dealing with other vendor's\nhardware.  I currently deal basically with hardware from 3 vendors - Apple,\nDEC, and SGI - and thus tend to monitor the groups about those vendor's\nhardware",
+      "No.  That's *not* what I was complaining about, nor did I intend to\nsuggest that DEC was any better than SGI (let me tell you about the\nLynx some day, but be prepared with a large sedative if you do...).  My\ncomment regarding DEC was to indicate that I might be open to other vendors\nthat supported O"
+    ],
+    "boundary_documents": [
+      {
+        "text": "code deleted...\n\n   XmNverifyBell\n\n      Specifies whether a bell will sound when an action is reversed\n      during a verification callback.\n\nYou are setting doit to false in the callback, and Text[Field] is beeping\nas it should.  To turn off this b",
+        "membership_distribution": {
+          "cluster_8": 0.0667,
+          "cluster_1": 0.0667,
+          "cluster_2": 0.0667,
+          "cluster_7": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "Friend's unpleasant experience uring CT scan deleted\n\nI'd suggest writing a detailed letter about the incident to the\nhospital administrator. Specify the date and time. If possible the\nnames of the technicians. \n\nSend a copy to the clinician under wh",
+        "membership_distribution": {
+          "cluster_8": 0.0667,
+          "cluster_6": 0.0667,
+          "cluster_4": 0.0667,
+          "cluster_12": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "Things could be worse. A lot worse! In the mid-eighties the\nteen/adult sci-fi comic 2000AD (Fleetway) produced a short story\nfeaturing the award winning character \"Judge Dredd\". The story\nfocussed on an advertising agency of the future who use high p",
+        "membership_distribution": {
+          "cluster_8": 0.0667,
+          "cluster_1": 0.0667,
+          "cluster_12": 0.0667,
+          "cluster_10": 0.0667
+        },
+        "entropy": 2.7081
+      }
+    ]
+  },
+  "9": {
+    "cluster_id": 9,
+    "size": 12,
+    "top_categories": [
+      [
+        "rec.autos",
+        5
+      ],
+      [
+        "sci.med",
+        2
+      ],
+      [
+        "sci.space",
+        2
+      ],
+      [
+        "talk.religion.misc",
+        1
+      ],
+      [
+        "comp.os.ms-windows.misc",
+        1
+      ]
+    ],
+    "representative_texts": [
+      ": |> : |> None of this changes the fact that MSW3.1 is objectively inferior to its\n: |> : |> competition.\n: |> \n: |> : Do you mean that MSW3.1 is objectively inferior in _some_ respects (which\n: |> : is trivially true), that it is objectively inferior in _all_ respecets\n: |> : (which is trivially fa",
+      "Glad to hear this, just a note, Osiris, Mithras and many other\ncult gods resurrected as well, so there's a good chance for all of\nus to maybe end up in a virtual reality simulator, and live forever,\nhurrah!\n\nSorry, this was a joke, some sort of one anyway. I'm the first\nthat connected Osiris with a ",
+      "Archive-name: rec-autos/part5\n\n[this article is one of a pair of articles containing commonly\nasked automotive questions; the other article contains questions\nmore geared to the automotive enthusiast, and so is not crossposted\nto misc.consumers.  -- rpw]\n\n   [changes as of 14 April 1993: revised bra",
+      "I feel compelled to complain: the statement that recent observations\nrule out merging neutron stars as sources of gamma-ray bursts is\nutterly false, even though it is popular enough to make it to\nBATSE press releases.\nThe idea behind the statement is as follows: \n     \"if you smack two neutron\n     ",
+      "Yes, Matt, dear Newbie, best advice is read here foe a few days.\nThis is your best source of info.\n\n(Kinda makes me glad that I discovered r.m well after I got into riding--\n could I have possibly sounded like *that* otherwise?  --eesh.)\n\nBTW Matt, despite the insults you are destined to face, great"
+    ],
+    "boundary_documents": [
+      {
+        "text": "I feel compelled to complain: the statement that recent observations\nrule out merging neutron stars as sources of gamma-ray bursts is\nutterly false, even though it is popular enough to make it to\nBATSE press releases.\nThe idea behind the statement is",
+        "membership_distribution": {
+          "cluster_9": 0.0667,
+          "cluster_8": 0.0667,
+          "cluster_5": 0.0667,
+          "cluster_2": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "Yes, however, with the top off and the rear window down this car is more \nlike a convertible than a coupe.  Think of it as a convertible with an \nintegrated roll-bar like addition.",
+        "membership_distribution": {
+          "cluster_9": 0.0667,
+          "cluster_1": 0.0667,
+          "cluster_4": 0.0667,
+          "cluster_2": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "As I heard the story, before Albert came up the the theory\no'relativity and warped space, nobody could account for\nMercury's orbit.  It ran a little fast (I think) for simple\nNewtonian physics.  With the success in finding Neptune to\nexplain the odd ",
+        "membership_distribution": {
+          "cluster_9": 0.0667,
+          "cluster_7": 0.0667,
+          "cluster_4": 0.0667,
+          "cluster_2": 0.0667
+        },
+        "entropy": 2.7081
+      }
+    ]
+  },
+  "10": {
+    "cluster_id": 10,
+    "size": 9,
+    "top_categories": [
+      [
+        "sci.med",
+        3
+      ],
+      [
+        "sci.electronics",
+        3
+      ],
+      [
+        "comp.graphics",
+        1
+      ],
+      [
+        "alt.atheism",
+        1
+      ],
+      [
+        "soc.religion.christian",
+        1
+      ]
+    ],
+    "representative_texts": [
+      "Archive-name: atheism/resources\nAlt-atheism-archive-name: resources\nLast-modified: 11 December 1992\nVersion: 1.0\n\n                              Atheist Resources\n\n                      Addresses of Atheist Organizations\n\n                                     USA\n\nFREEDOM FROM RELIGION FOUNDATION\n\nDar",
+      "(Dear Moderator: Would you add this to the BCC faq?)\n\nIn case there are any ex-members of the \"Boston Church of Christ\"\nlooking for a support organization, here's the number of \"BostonEX\" in\nBurlington, MA: 617-272-1955.\n\n--------\n\ns.r.c readers in New England may be interested in seeing a series of",
+      ": Hi All,\n\n: Would anyone out there in 'net-land' happen to have an\n: authentic, sure-fire way of making this great sauce that\n: is used to adorn Gyro's and Souvlaki?\n\n: Thanks,\n\nI have a receipe at home that was posted to me by one of our fellow\nnetters about a month ago.  I am recalling this from ",
+      "Short of changes by the feds, there is no way.  Codeine alone is very\ndifficult to prescribe without a lot of hassles.  Tylenol #3 is the\nbest compromise.  That way he can get refills.  The amount of acetominophen\nhe is getting with his codeine won't hurt him any.\n\n-- \n------------------------------",
+      "------------- cut here -----------------\n\nHICNet Medical Newsletter                                              Page 13\nVolume  6, Number 11                                           April 25, 1993\n\n::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::\n                     "
+    ],
+    "boundary_documents": [
+      {
+        "text": "------------- cut here -----------------\n\nHICNet Medical Newsletter                                              Page 13\nVolume  6, Number 11                                           April 25, 1993\n\n::::::::::::::::::::::::::::::::::::::::::::::::::",
+        "membership_distribution": {
+          "cluster_10": 0.0667,
+          "cluster_8": 0.0667,
+          "cluster_13": 0.0667,
+          "cluster_12": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "In four replies, I've seen no hard numbers, so here goes:  For traces\non the outside (not inner layers), expect, in 1 oz copper, at 15 amps,\nthe following temperature rises versus width.  This is from Sams'\n\"Reference Data for Engineers,\" seventh edi",
+        "membership_distribution": {
+          "cluster_10": 0.0667,
+          "cluster_3": 0.0667,
+          "cluster_6": 0.0667,
+          "cluster_0": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "Short of changes by the feds, there is no way.  Codeine alone is very\ndifficult to prescribe without a lot of hassles.  Tylenol #3 is the\nbest compromise.  That way he can get refills.  The amount of acetominophen\nhe is getting with his codeine won't",
+        "membership_distribution": {
+          "cluster_10": 0.0667,
+          "cluster_12": 0.0667,
+          "cluster_1": 0.0667,
+          "cluster_11": 0.0667
+        },
+        "entropy": 2.7081
+      }
+    ]
+  },
+  "11": {
+    "cluster_id": 11,
+    "size": 1,
+    "top_categories": [
+      [
+        "sci.electronics",
+        1
+      ]
+    ],
+    "representative_texts": [
+      "{Gladman Aviv} said\n   \"Re: Blue LED's\"\n      to <All> on 04-24-93  01:51\n\n GA> In order to emit blue light, a semiconductor must have a band gap\n GA> energy within the region of 2.6 to 2.8 electron Volts. According to my\n GA> physical electronics prof, you can't get an LED with that band gap.\n GA> "
+    ],
+    "boundary_documents": [
+      {
+        "text": "{Gladman Aviv} said\n   \"Re: Blue LED's\"\n      to <All> on 04-24-93  01:51\n\n GA> In order to emit blue light, a semiconductor must have a band gap\n GA> energy within the region of 2.6 to 2.8 electron Volts. According to my\n GA> physical electronics pr",
+        "membership_distribution": {
+          "cluster_11": 0.0667,
+          "cluster_14": 0.0667,
+          "cluster_5": 0.0667,
+          "cluster_8": 0.0667
+        },
+        "entropy": 2.7081
+      }
+    ]
+  },
+  "12": {
+    "cluster_id": 12,
+    "size": 147,
+    "top_categories": [
+      [
+        "sci.crypt",
+        66
+      ],
+      [
+        "sci.space",
+        27
+      ],
+      [
+        "rec.autos",
+        17
+      ],
+      [
+        "sci.electronics",
+        11
+      ],
+      [
+        "sci.med",
+        7
+      ]
+    ],
+    "representative_texts": [
+      "This announcement is somewhat disconcerting; it doesn't do anything\nevil in and of itself, but bodes badly for the future of open\nalgorithms and standards in information security.  I won't start\npanicking until/unless DES or RSA or stuff like that is prohibited, but\nI'm a little anxious.  (No doubt ",
+      "The Clipper Chip will have no effect.  Current generation PCs, portable\nand desktop, all have analog voice -> digital voice and vice versa\ncapabilities.  So, I only need a modem output to the telephone,\nand I can interpose any encryption screen on my voice traffic I want.\n\nNot even a big deal, but i",
+      "[...]\n\nI don't claim to be a crypto analyist... there isn't a whole lot of good\nliterature on the subject, and the best people don't seem to publish\ntheir work :)  but I rather doubt the approach such folks use is brute\nforce (sorry to have implied that in my previous post).  The history\nof these th",
+      ": Here is a disturbing thought.\n....good stuff elided....\n: Don't pretend that no one unauthorized will ever get their hands on\n: the escrow databases.\n: \n.......\n: secret. The escrow databases aren't the sorts of secrets that our\n: teachers told us about, but they are the sort of big secrets they\n:",
+      "It seems to me that all discussions about Clipper security are almost \nirrelevant - if I cannot choose the key, but have to use a key chosen for\nme by the foundry, the security of the WHOLE UNIVERSE OF USERS is as good\n(or as bad) as the security of VLSI Technologies Inc.\n\nIt is a trivial effort to "
+    ],
+    "boundary_documents": [
+      {
+        "text": "Im designing a circuit with just a silicon diode. I dont need\nto modify any of the parameters. But the problem will not accept the following\nstatement\n\t\t\n\t\t.model diode D\n\n        The pspice book I have is terrible. I would appreciate any help.",
+        "membership_distribution": {
+          "cluster_12": 0.0667,
+          "cluster_1": 0.0667,
+          "cluster_0": 0.0667,
+          "cluster_11": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "Putting aside our substantial differences, I'd like to ask the knowledgeable\nones to give feedback on this.  Let me explain.\n\nOne of my family members last week was discovered to have a brain tumor after\nhaving some difficulties with walking and writ",
+        "membership_distribution": {
+          "cluster_12": 0.0667,
+          "cluster_2": 0.0667,
+          "cluster_1": 0.0667,
+          "cluster_9": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "problem with 3He (aside from the difficulty in making any fusion\n   reactor work) is that its concentration in lunar regolith is just so\n   small -- on the order of 5 ppb or so, on average (more in some\n\n   This thread reminds me of Wingo's claims so",
+        "membership_distribution": {
+          "cluster_12": 0.0667,
+          "cluster_8": 0.0667,
+          "cluster_1": 0.0667,
+          "cluster_3": 0.0667
+        },
+        "entropy": 2.7081
+      }
+    ]
+  },
+  "13": {
+    "cluster_id": 13,
+    "size": 1943,
+    "top_categories": [
+      [
+        "rec.sport.hockey",
+        738
+      ],
+      [
+        "rec.sport.baseball",
+        606
+      ],
+      [
+        "sci.crypt",
+        100
+      ],
+      [
+        "rec.motorcycles",
+        97
+      ],
+      [
+        "sci.space",
+        88
+      ]
+    ],
+    "representative_texts": [
+      "# So the Blue PRess suggests that we bankrupt HCI by requesting information\n# and the concern by list members is that HCI will claim everyone that calls\n# as a new member.  I think they will. I also think they will claim a new\n# MANDATE to ban all firearms from the solar system wheter we call and as",
+      "It looks like Dorothy Denning's wrong-headed ideas have gotten to the\nAdministration even sooner than we feared. It's time to make sure they\nhear the other side of the story, and hear it loudly!\n\nPhil\n\n------- Forwarded Message\n\nSubject: text of White House announcement and Q&As on clipper chip encr",
+      "From: <tom>\nSubject: computer cult\n\nFrom scott Fri Apr 23 16:31:21 1993\nReceived: by igc.apc.org (4.1/Revision: 1.77 )\n\tid AA16121; Fri, 23 Apr 93 16:31:09 PDT\nDate: Fri, 23 Apr 93 16:31:09 PDT\nMessage-Id: <9304232331.AA16121@igc.apc.org>\nFrom: Scott Weikart <scott>\nSender: scott\nTo: cdplist\nSubject",
+      "The Denver Post (supposed voice of the supposed Rocky Mountain Empire)\nran the following in the 'Firearms, Supplies' classified heading on \nFriday, 23 April 1993.  If you have an opinion about their new found\nwisdom, I am told that the person to speak with is one Mr. Walters,\n(303)820-1267.\n\n\tNotice",
+      "Oh boy, a little K-bike versus /2 scuffling? Grow up! And that goes for\nthe both of you!\n\nI do hope that the \"dump dempster\" campaign works however.\nI think that he is a crook, and I am suprised that it has taken this long\nfor anything to be done (though obviously, it ain't over yet)\nOn the other ha"
+    ],
+    "boundary_documents": [
+      {
+        "text": "It is actually simple in principle. Porous adsorbents like zeolite and\nactivated carbon can adsorb gases evaporated from the adsorbate (water\nor methanol, etc.) giving the cooling effect.  Upon being heated, the \ngas-saturated adsorbent bed will give",
+        "membership_distribution": {
+          "cluster_13": 0.0667,
+          "cluster_4": 0.0667,
+          "cluster_8": 0.0667,
+          "cluster_2": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": ": While it's possible that it's a ham radio transmitter that you're\n: hearing, it isn't likely - every bit of signal that doesn't go out the\n: antenna is wasted, as far as a ham is concerned, and most hams are\n\nIt is the radiated signal that would ca",
+        "membership_distribution": {
+          "cluster_13": 0.0667,
+          "cluster_10": 0.0667,
+          "cluster_8": 0.0667,
+          "cluster_11": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "The only fungus I know of from California is Coccidiomycosis.  I\nhadn't heard that it attacked bone.  It attacks lung and if you\nare especially unlucky, the central nervous system.  Nothing new\nabout it.  It's been around for years.  THey call it \"va",
+        "membership_distribution": {
+          "cluster_13": 0.0667,
+          "cluster_6": 0.0667,
+          "cluster_7": 0.0667,
+          "cluster_1": 0.0667
+        },
+        "entropy": 2.7081
+      }
+    ]
+  },
+  "14": {
+    "cluster_id": 14,
+    "size": 145,
+    "top_categories": [
+      [
+        "rec.autos",
+        52
+      ],
+      [
+        "rec.motorcycles",
+        39
+      ],
+      [
+        "comp.sys.ibm.pc.hardware",
+        19
+      ],
+      [
+        "sci.electronics",
+        10
+      ],
+      [
+        "comp.sys.mac.hardware",
+        7
+      ]
+    ],
+    "representative_texts": [
+      "--\n\nThanks to all of you who gave advice on the CB900 Custom. \n\nAs recommended, I had the bike compression tested.  Compression was\na little low, but very even across the four cylinders (+/- 5 psi).  They\nsaid that it was tested a little cold, so that would explain the low \nnumbers (around 90).  Doe",
+      "I had a similar experience.  We had a written quote which had been mailed\nto us from the salesman at one of these \"no-haggle\" Toyota dealers for\na Camry XLE w/ABS, leather, etc.  The price seemed fair, but when we\nwent in to take them up on their offer, they \"discovered\" that certain\nextra cost item",
+      ":    I hate to admit this, and I'm still mentally kicking myself for it.\n: I rode the brand new K75RT home last Friday night.  100 miles in rain\n: and darkness.  No problems.  Got it home and put it on the center stand.\n:    The next day I pushed it off the center stand in preparation for going\n: ov",
+      "I agree about the durability of the old TH400 trannies from GM.  While I \nnever intentionally slamed my '68 Firebird 400 ci Conv. into gear, I would leave \nthe trannie in Low (read 1st), grab hold, hit the pedal, and once the tires \ngrabbed, take off.  When I reached about 57-60mph the turbo 400 Aut",
+      "It is heavy, the 91 is mid 600's dry, that is the one major drawback\nof the ST.\n\nCan you say \" tourque monster\" The test drive sold me on the bike, \nlot's of bite anywhere above 2500 in any gear.\n\nDid you trythe ABS/TCS version? \n\nAfter market fairing windshield for 100.00 raises the bubble 6 inches"
+    ],
+    "boundary_documents": [
+      {
+        "text": "Does anyone know how to reset the service indicator of a BMW after changing\nthe oil yourself?\n\nAlso, I have about 3,000 miles on my 525i and so far only one of the five\nyellow service indicators went out. That means I don't need oil service until\nit ",
+        "membership_distribution": {
+          "cluster_14": 0.0667,
+          "cluster_1": 0.0667,
+          "cluster_9": 0.0667,
+          "cluster_3": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "There is a known problem with the seals on the taillights of <93 probes.\nComplain loudly to your dealer and get them to install new seals.  It is\na known problem, present on most (if not all) pre-93 Probes, so you \nshouldn't have to pay them to fix i",
+        "membership_distribution": {
+          "cluster_14": 0.0667,
+          "cluster_13": 0.0667,
+          "cluster_11": 0.0667,
+          "cluster_5": 0.0667
+        },
+        "entropy": 2.7081
+      },
+      {
+        "text": "I have been having problems with a slightly different clutch problem on\nmy 90 Prelude. See rec.autos.tech for more detail. My problem is a false\nengagement point below the actual one. It also seems affected by weather -\nit is most noticeable (and ann",
+        "membership_distribution": {
+          "cluster_14": 0.0667,
+          "cluster_0": 0.0667,
+          "cluster_3": 0.0667,
+          "cluster_7": 0.0667
+        },
+        "entropy": 2.7081
+      }
+    ]
+  }
+}
