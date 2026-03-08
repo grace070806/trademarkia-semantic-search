@@ -1,5 +1,11 @@
 # Semantic Search System — 20 Newsgroups
+## Highlights
 
+• Semantic search using sentence-transformer embeddings  
+• Fuzzy C-Means clustering with soft topic membership  
+• Cluster-aware semantic cache reducing lookup from O(N) → O(N/K)  
+• Vector search using ChromaDB (DuckDB + Parquet backend)  
+• FastAPI service for real-time semantic query retrieval  
 > Fuzzy C-Means clustering · Cluster-aware semantic cache · FastAPI service
 
 A lightweight semantic search system built over ~18,000 forum posts spanning 20 topics. The system converts documents into dense embeddings, clusters them using Fuzzy C-Means (soft assignments, not hard labels), builds a cluster-partitioned semantic cache that recognises paraphrased queries, and exposes everything through a FastAPI service.
