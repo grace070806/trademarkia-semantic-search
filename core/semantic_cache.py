@@ -136,13 +136,9 @@ class SemanticCache:
         3. Return the highest-similarity entry above self.theta
         """
         query_embedding = self._normalise(query_embedding)
-        dominant = int(np.argmax(membership))
-        search_clusters = {dominant}
-
-        if self.multi_cluster:
-            for c, mem in enumerate(membership):
-                if mem >= self.secondary_threshold and c != dominant:
-                    search_clusters.add(c)
+        top_k = 3
+        top_clusters = np.argsort(membership)[-top_k:]
+        search_clusters = set(int(c) for c in top_clusters)
 
         best_entry: Optional[CacheEntry] = None
         best_sim: float = -1.0
